@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "122287748693",
+    "project_id": "civicfix-bharat",
+    "storage_bucket": "civicfix-bharat.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:122287748693:android:85bc99101e03920028c6dc",
+        "android_client_info": {
+          "package_name": "com.civicfix.bharat.civicfix_bharat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUqRlKNVJPQrfXckfIDzE0UxaLjricloI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
